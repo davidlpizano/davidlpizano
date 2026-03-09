@@ -72,13 +72,6 @@ formacion:
 - 🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)
 - 📡 Preparación activa para la certificación **CCNA 1**
 
-### 📺 Canal de YouTube
-
-Scripts y prácticas de PowerShell aplicadas a la administración de sistemas.
-Contenido en español orientado a estudiantes de ASIR.
-
-> 🔗 [Ver canal →](https://www.youtube.com/@DavihAsir)
-
 ---
 
 ## 🌱 Actualmente Aprendiendo
