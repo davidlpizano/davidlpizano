@@ -59,7 +59,7 @@ formacion:
 
 ---
 
-## 📂 Proyectos & Contenido
+## 📂 Proyectos
 
 ### 🖥️ Sistemas & Automatización
 
