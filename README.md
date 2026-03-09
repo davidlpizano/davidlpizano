@@ -1,97 +1,176 @@
-<h1 align="center">Hola, soy David 👋</h1>
+# 👋 ¡Hola! Soy David
 
-<p align="center">
-  <em>Estudiante de <strong>ASIR</strong> · Administración de Sistemas Informáticos en Red</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Redes+%7C+Sistemas+%7C+Bases+de+Datos;Linux+%7C+Windows+Server;Siempre+aprendiendo...+%F0%9F%93%9A" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=650&lines=Estudiante+de+ASIR;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧑‍ Sobre mí
+## 🚀 Sobre mí
 
-- 🎓 Cursando **ASIR** (Administración de Sistemas Informáticos en Red)
-- Apasionado por las **redes**, los **sistemas** y la **administración de infraestructuras**
-- 📍 Sevilla, España
+```javascript
+nombre: "David Lopez"
+ubicacion: "Sevilla, Andalucía 🇪🇸"
+rol_actual: "Estudiante de ASIR"
+filosofia: "Cada comando que ejecutas es una lección que no olvidarás"
+
+formacion:
+  ciclo: "Administración de Sistemas Informáticos en Red (ASIR)"
+  
+  especializacion:
+    redes:
+      - "Configuración de routers y switches (Cisco Packet Tracer)"
+      - "Topologías de red y subnetting"
+      - "Preparando certificación CCNA 1"
+
+    sistemas:
+      - "Administración de Linux (terminal, servicios, usuarios)"
+      - "Administración de Windows Server"
+      - "Virtualización y gestión de entornos"
+
+    bases_de_datos:
+      - "Consultas SQL con Oracle SQL Developer"
+      - "Administración y diseño de bases de datos relacionales"
+
+  idiomas:
+    - "🇬🇧 Inglés B2 — Certificado Trinity (oficial)"
+
+  objetivo_futuro: "Curso de Especialización en Ciberseguridad 🔐"
+```
 
 ---
 
-## 🛠️ Herramientas & Tecnologías
+## 🛠️ Stack Tecnológico
 
 ### 🌐 Redes
 
-<p>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🗄️ Bases de Datos
 
-<p>
-  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+![Oracle](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🖥️ Sistemas
+### 🖥️ Sistemas Operativos
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
-
-### ⌨️ Scripting & Terminal
-
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 📂 Proyectos & Logros
+## 📂 Proyectos & Contenido
 
-> Aquí encontrarás prácticas y proyectos que voy desarrollando a lo largo del ciclo de ASIR.
+### 🖥️ Sistemas & Automatización
 
-| Área | Descripción |
-| --- | --- |
-| 🌐 **Redes** | Configuración de routers, switches y topologías en Packet Tracer |
-| 🗄️ **Bases de datos** | Consultas y administración con Oracle SQL Developer |
-| 🖥️ **Sistemas** | Scripts de automatización en PowerShell y Bash |
-| 🐧 **Linux** | Administración de servicios, usuarios y permisos |
-| 📺 **YouTube** | Vídeos con tareas y scripts de PowerShell aplicados a administración de sistemas |
+- ⚙️ Scripts de **PowerShell** para automatización de tareas en Windows Server
+- 🐧 Prácticas de administración **Linux**: usuarios, permisos, servicios y red
+- 🗄️ Ejercicios de **SQL** con Oracle: consultas, joins, vistas y procedimientos
+
+### 🌐 Redes
+
+- 🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)
+- 📡 Preparación activa para la certificación **CCNA 1**
+
+### 📺 Canal de YouTube
+
+Scripts y prácticas de PowerShell aplicadas a la administración de sistemas.
+Contenido en español orientado a estudiantes de ASIR.
+
+> 🔗 [Ver canal →](https://www.youtube.com/@DavihAsir)
 
 ---
 
-## 🏆 Certificaciones & Objetivos
+## 🌱 Actualmente Aprendiendo
 
-### ✅ Conseguido
+| Tecnología | Progreso | Objetivo |
+| --- | --- | --- |
+| 🌐 Networking | 🟦🟦🟦⬜⬜ | CCNA1 |
+| 🐧 Linux avanzado | 🟦🟦⬜⬜⬜ | Servicios, firewall y hardening |
 
-- 🇬🇧 **B2 Trinity** — Certificado oficial de inglés nivel B2
+---
 
-### 🔄 En progreso
+## 🎯 Filosofía de Trabajo
 
-- 🌐 **CCNA 1** — Preparando la certificación de redes de Cisco
-- 🇬🇧 **C1 de inglés** — Avanzando desde el B2 hacia el nivel C1
+<div align="center">
 
-### 🎯 Objetivos futuros
+### *"El error no es el fracaso, sino el camino hacia el éxito ."*
 
-- 🔐 **Curso de Especialización en Ciberseguridad** — Continuar formándome en seguridad informática tras ASIR
+</div>
+
+**Mis principios:**
+
+```powershell
+# David's sysadmin mindset
+
+$filosofia = @{
+    Documentar   = "Un sistema sin documentar es un sistema que falla"
+    Practicar    = "Experimentación primero, producción después"
+    Aprender     = "ASIR es el inicio, no el límite"
+    Compartir    = "El conocimiento crece cuando se comparte"
+}
+
+$filosofia.GetEnumerator() | ForEach-Object {
+    Write-Host "[$($_.Key)] → $($_.Value)"
+}
+```
+
+---
+
+## 🎮 Fun Facts
+
+```bash
+$ whoami
+davidlpizano
+
+$ cat /etc/interests
+- 🌐 Redes y protocolos de comunicación
+- 🖥️ Administración de sistemas Linux y Windows
+- 🔐 El mundo de la ciberseguridad me llama
+- 📺 Crear contenido técnico en YouTube
+- ⌨️  Automatizar todo lo que se pueda con PowerShell
+- 🇬🇧 Mejorando mi inglés técnico cada día
+
+$ uptime
+Estudiando, practicando y creciendo 📚
+
+$ exit
+¡Gracias por visitar mi perfil! 👋
+```
 
 ---
 
 ## 📬 Contacto & Redes Sociales
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@TU_CANAL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-davidlpizano-181717?style=for-the-badge&logo=github)](https://github.com/davidlpizano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlopiza/)
+[![YouTube](https://img.shields.io/badge/YouTube-Canal%20David-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavihAsir)
+
+</div>
 
 ---
 
-<p align="center">
-  <em>⚡ "El conocimiento es poder, y los sistemas bien administrados son la base de todo." ⚡</em>
-</p>
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidlpizano&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidlpizano&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidlpizano&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=davidlpizano&color=00BFFF&style=flat)
+
+### ⭐ Si algún script o práctica te resulta útil, ¡dale una estrella
+
+**Hecho con 💙 desde Sevilla para la comunidad ASIR**
+
+</div>
