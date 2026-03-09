@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-```javascript
+```yaml
 nombre: "David Lopez"
 ubicacion: "Sevilla, Andalucía 🇪🇸"
 rol_actual: "Estudiante de ASIR"
