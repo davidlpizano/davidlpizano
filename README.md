@@ -1,5 +1,8 @@
 # 👋 ¡Hola! Soy David
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Estudiante%20ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" />
+</p>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=650&lines=Estudiante+de+ASIR;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90)](https://git.io/typing-svg)
@@ -161,8 +164,6 @@ $ exit
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=davidlpizano&color=00BFFF&style=flat)
-
-### ⭐ Si algún script o práctica te resulta útil, ¡dale una estrella
 
 **Hecho con 💙 desde Sevilla para la comunidad ASIR**
 
