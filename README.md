@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy David
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&customColorList=0,02aab0,00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Estudiante%20ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:02aab0,100:00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Estudiante%20ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" />
 </p>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=80F76E&center=true&width=650&lines=Estudiante+de+ASIR;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02aab0&center=true&width=650&lines=Estudiante+de+ASIR;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-```javascript
+```YAML
 nombre: "David Lopez"
 ubicacion: "Sevilla, Andalucía 🇪🇸"
 rol_actual: "Estudiante de ASIR"
