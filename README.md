@@ -39,9 +39,9 @@ create table formacion(
     bases_de_datos varchar (20) 'Administración y diseño de bases de datos relacionales'
 );
 
-insert into idiomas values('🇬🇧 Inglés B2 — Certificado Trinity (oficial)')
+insert into idiomas values('🇬🇧 Inglés B2 — Certificado Trinity (oficial)');
 
-insert into objetivo_futuro values ('Curso de Especialización en Ciberseguridad 🔐')
+insert into objetivo_futuro values ('Curso de Especialización en Ciberseguridad 🔐');
 ```
 
 ---
