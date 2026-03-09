@@ -14,34 +14,34 @@
 
 ## 🚀 Sobre mí
 
-```YAML
-nombre: "David Lopez"
-ubicacion: "Sevilla, Andalucía 🇪🇸"
-rol_actual: "Estudiante de ASIR"
-filosofia: "Cada comando que ejecutas es una lección que no olvidarás"
+```sql
+create table yo(
+nombre varchar (20) primary key 'David Lopez',
+ubicacion varchar (20) 'Sevilla, Andalucía 🇪🇸',
+rol_actual varchar (20) 'Estudiante de ASIR',
+filosofia varchar (20) 'Cada comando que ejecutas es una lección que no olvidarás'
+);
 
-formacion:
-  ciclo: "Administración de Sistemas Informáticos en Red (ASIR)"
+create table formacion(
+  ciclo varchar  (20) primary key 'Administración de Sistemas Informáticos en Red (ASIR)'
   
-  especializacion:
-    redes:
-      - "Configuración de routers y switches (Cisco Packet Tracer)"
-      - "Topologías de red y subnetting"
-      - "Preparando certificación CCNA 1"
+  especializacion varchar (20)
 
-    sistemas:
-      - "Administración de Linux (terminal, servicios, usuarios)"
-      - "Administración de Windows Server"
-      - "Virtualización y gestión de entornos"
+    redes varchar (20) 'Configuración de routers y switches (Cisco Packet Tracer)'
+    redes varchar (20) 'Topologías de red y subnetting'
+    redes varchar (20) 'Preparando certificación CCNA 1'
 
-    bases_de_datos:
-      - "Consultas SQL con Oracle SQL Developer"
-      - "Administración y diseño de bases de datos relacionales"
+    sistemas varchar (20) 'Administración de Linux (terminal, servicios, usuarios)'
+    sistemas varchar (20) 'Administración de Windows Server'
+    sistemas varchar (20) 'Virtualización y gestión de entornos'
 
-  idiomas:
-    - "🇬🇧 Inglés B2 — Certificado Trinity (oficial)"
+    bases_de_datos varchar (20) 'Consultas SQL con Oracle SQL Developer'
+    bases_de_datos varchar (20) 'Administración y diseño de bases de datos relacionales'
+);
 
-  objetivo_futuro: "Curso de Especialización en Ciberseguridad 🔐"
+create table idiomas varchar (20) '🇬🇧 Inglés B2 — Certificado Trinity (oficial)'
+
+create table objetivo_futuro varchar (20) 'Curso de Especialización en Ciberseguridad 🔐'
 ```
 
 ---
@@ -117,10 +117,12 @@ $filosofia.GetEnumerator() | ForEach-Object {
 ## 🎮 Fun Facts
 
 ```bash
-$ whoami
+> enable
+# configure terminal
+(config)# hostname
 davidlpizano
 
-$ cat /etc/interests
+# show running-config
 - 🌐 Redes y protocolos de comunicación
 - 🖥️ Administración de sistemas Linux y Windows
 - 🔐 El mundo de la ciberseguridad me llama
@@ -128,10 +130,10 @@ $ cat /etc/interests
 - ⌨️  Automatizar todo lo que se pueda con PowerShell
 - 🇬🇧 Mejorando mi inglés técnico cada día
 
-$ uptime
+(config)# ip route
 Estudiando, practicando y creciendo 📚
 
-$ exit
+(config)# end
 ¡Gracias por visitar mi perfil! 👋
 ```
 
