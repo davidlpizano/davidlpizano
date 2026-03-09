@@ -1,11 +1,12 @@
+<!-- markdownlint-disable MD033 -->
 # 👋 ¡Hola! Soy David
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:02aab0,100:00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Estudiante%20ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:02aab0,100:00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Estudiante%20ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" alt="Banner David Lopez"/>
 </p>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02aab0&center=true&width=650&lines=Estudiante+de+ASIR;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Texto Rotativo](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02aab0&center=true&width=650&lines=Estudiante+de+ASIR;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,7 +71,7 @@ formacion:
 - 🐧 Prácticas de administración **Linux**: usuarios, permisos, servicios y red
 - 🗄️ Ejercicios de **SQL** con Oracle: consultas, joins, vistas y procedimientos
 
-### 🌐 Redes
+### 📡 Prácticas de Redes
 
 - 🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)
 - 📡 Preparación activa para la certificación **CCNA 1**
@@ -152,10 +153,10 @@ $ exit
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidlpizano&theme=tokyonight)
+![Detalles del Perfil en GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidlpizano&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidlpizano&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidlpizano&theme=tokyonight)
+![Repositorios por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidlpizano&theme=tokyonight)
+![Lenguaje con más Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidlpizano&theme=tokyonight)
 
 </div>
 
@@ -165,6 +166,6 @@ $ exit
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=davidlpizano&color=00BFFF&style=flat)
 
-**Hecho con 💙 desde Sevilla para la comunidad ASIR**
+<b>Hecho con 💙 desde Sevilla para la comunidad ASIR</b>
 
 </div>
