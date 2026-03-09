@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy David
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Estudiante%20ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Estudiante%20ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" />
 </p>
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mí
 
-```yaml
+```javascript
 nombre: "David Lopez"
 ubicacion: "Sevilla, Andalucía 🇪🇸"
 rol_actual: "Estudiante de ASIR"
