@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- Cabecera -->
 # 👋 ¡Hola! Soy David
 
 <p align="center">
