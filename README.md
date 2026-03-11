@@ -153,21 +153,6 @@ Estudiando, practicando y creciendo 📚
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![Detalles del Perfil en GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidlpizano&theme=tokyonight)
-
-![Repositorios por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidlpizano&theme=tokyonight)
-![Lenguaje con más Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidlpizano&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=davidlpizano&color=00BFFF&style=flat)
-
 <b>Hecho con 💙 desde Sevilla para la comunidad ASIR</b>
 
 </div>
