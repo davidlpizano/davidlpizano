@@ -67,13 +67,13 @@ insert into objetivo_futuro values ('Curso de Especialización en Ciberseguridad
 
 ### 🖥️ Sistemas & Automatización
 
-- ⚙️ Scripts de **PowerShell** para automatización de tareas en Windows Server
-- 🐧 Prácticas de administración **Linux**: usuarios, permisos, servicios y red
-- 🗄️ Ejercicios de **SQL** con Oracle: consultas, joins, vistas y procedimientos
+- [⚙️ Scripts de **PowerShell** para automatización de tareas en Windows Server](https://github.com/davidlpizano/Sistemas)
+- [🐧 Prácticas de administración **Linux**: usuarios, permisos, servicios y red](https://github.com/davidlpizano/Sistemas)
+- [🗄️ Ejercicios de **SQL** con Oracle: consultas, joins, vistas y procedimientos](https://github.com/davidlpizano?tab=repositories) <!-- Pendiente de BBDD -->
 
 ### 📡 Prácticas de Redes
 
-- [🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)](https://github.com/davidlpizano?tab=repositories) <!-- Sustituir enlace por el repositorio real -->
+- [🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)](https://github.com/davidlpizano/Redes)
 - 📡 Preparación activa para la certificación **CCNA 1**
 
 ---
@@ -105,10 +105,6 @@ $filosofia = @{
     Practicar    = "Experimentación primero, producción después"
     Aprender     = "ASIR es el inicio, no el límite"
     Compartir    = "El conocimiento crece cuando se comparte"
-}
-
-$filosofia.GetEnumerator() | ForEach-Object {
-    Write-Host "[$($_.Key)] → $($_.Value)"
 }
 ```
 
