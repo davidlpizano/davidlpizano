@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- Cabecera -->
 # 👋 ¡Hola! Soy David
 
 <p align="center">
@@ -39,9 +39,9 @@ create table formacion(
     bases_de_datos varchar (20) 'Administración y diseño de bases de datos relacionales'
 );
 
-create table idiomas varchar (20) '🇬🇧 Inglés B2 — Certificado Trinity (oficial)'
+insert into idiomas values('🇬🇧 Inglés B2 — Certificado Trinity (oficial)');
 
-create table objetivo_futuro varchar (20) 'Curso de Especialización en Ciberseguridad 🔐'
+insert into objetivo_futuro values ('Curso de Especialización en Ciberseguridad 🔐');
 ```
 
 ---
@@ -73,7 +73,7 @@ create table objetivo_futuro varchar (20) 'Curso de Especialización en Ciberseg
 
 ### 📡 Prácticas de Redes
 
-- 🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)
+- [🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)](https://github.com/davidlpizano?tab=repositories) <!-- Sustituir enlace por el repositorio real -->
 - 📡 Preparación activa para la certificación **CCNA 1**
 
 ---
@@ -146,6 +146,7 @@ Estudiando, practicando y creciendo 📚
 [![GitHub](https://img.shields.io/badge/GitHub-davidlpizano-181717?style=for-the-badge&logo=github)](https://github.com/davidlpizano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlopiza/)
 [![YouTube](https://img.shields.io/badge/YouTube-Canal%20David-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavihAsir)
+[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopez.pizano.david@gmail.com)
 
 </div>
 
@@ -153,21 +154,14 @@ Estudiando, practicando y creciendo 📚
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![Detalles del Perfil en GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidlpizano&theme=tokyonight)
-
-![Repositorios por Lenguaje](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidlpizano&theme=tokyonight)
-![Lenguaje con más Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidlpizano&theme=tokyonight)
-
+<b>Hecho con 💙 desde Sevilla para la comunidad ASIR</b>
 </div>
 
----
+<br/>
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=davidlpizano&color=00BFFF&style=flat)
-
-<b>Hecho con 💙 desde Sevilla para la comunidad ASIR</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidlpizano&show_icons=true&theme=transparent&hide_border=true&title_color=02aab0&text_color=ffffff&icon_color=00cdac" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidlpizano&theme=transparent&hide_border=true&title_color=02aab0&text_color=ffffff&icon_color=00cdac&ring=02aab0&fire=00cdac&currStreakNum=ffffff" alt="Racha de GitHub" width="48%" />
+</div>
 
 </div>
