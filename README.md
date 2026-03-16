@@ -69,7 +69,7 @@ insert into objetivo_futuro values ('Curso de Especialización en Ciberseguridad
 
 - [⚙️ Scripts de **PowerShell** para automatización de tareas en Windows Server](https://github.com/davidlpizano/Sistemas)
 - [🐧 Prácticas de administración **Linux**: usuarios, permisos, servicios y red](https://github.com/davidlpizano/Sistemas)
-- [🗄️ Ejercicios de **SQL** con Oracle: consultas, joins, vistas y procedimientos](https://github.com/davidlpizano?tab=repositories) <!-- Pendiente de BBDD -->
+- [🗄️ Ejercicios de **SQL** con Oracle: consultas, joins, vistas y procedimientos](https://github.com/davidlpizano/BasesDeDatos)
 
 ### 📡 Prácticas de Redes
 
