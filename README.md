@@ -142,7 +142,7 @@ Estudiando, practicando y creciendo 📚
 [![GitHub](https://img.shields.io/badge/GitHub-davidlpizano-181717?style=for-the-badge&logo=github)](https://github.com/davidlpizano)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlopiza/)
 [![YouTube](https://img.shields.io/badge/YouTube-Canal%20David-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavihAsir)
-[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopez.pizano.david@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmailto:lopez.pizano.david@gmail.com)
 
 </div>
 
