@@ -152,12 +152,3 @@ Estudiando, practicando y creciendo 📚
 
 <b>Hecho con 💙 desde Sevilla para la comunidad ASIR</b>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidlpizano&show_icons=true&theme=transparent&hide_border=true&title_color=02aab0&text_color=ffffff&icon_color=00cdac" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidlpizano&theme=transparent&hide_border=true&title_color=02aab0&text_color=ffffff&icon_color=00cdac&ring=02aab0&fire=00cdac&currStreakNum=ffffff" alt="Racha de GitHub" width="48%" />
-</div>
-
-</div>
