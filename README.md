@@ -1,12 +1,11 @@
 <!-- Cabecera -->
-# 👋 ¡Hola! Soy David
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:02aab0,100:00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=20&descAlignY=62&descColor=c0e0ff" alt="Banner David Lopez"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:02aab0,100:00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=22&descAlignY=58&descColor=c0e0ff" alt="Banner David Lopez" width="100%"/>
 </p>
+
 <div align="center">
 
-[![Texto Rotativo](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02aab0&center=true&width=650&lines=Estudiante+de+ASIR;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02aab0&center=true&vCenter=true&width=650&lines=Estudiante+de+ASIR+en+Sevilla;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90;CCNA+1+certificado+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,140 +14,203 @@
 ## 🚀 Sobre mí
 
 ```sql
-create table yo(
-nombre varchar (20) primary key 'David Lopez',
-ubicacion varchar (20) 'Sevilla, Andalucía 🇪🇸',
-rol_actual varchar (20) 'Estudiante de ASIR',
-filosofia varchar (20) 'Cada comando que ejecutas es una lección que no olvidarás'
+CREATE TABLE david_lopez (
+    nombre          VARCHAR2(50)  PRIMARY KEY,
+    ubicacion       VARCHAR2(50),
+    rol_actual      VARCHAR2(50),
+    objetivo        VARCHAR2(80),
+    filosofia       VARCHAR2(100)
 );
 
-create table formacion(
-  ciclo varchar  (20) primary key 'Administración de Sistemas Informáticos en Red (ASIR)'
-  
-  especializacion varchar (20)
-
-    redes varchar (20) 'Configuración de routers y switches (Cisco Packet Tracer)'
-    redes varchar (20) 'Topologías de red y subnetting'
-    redes varchar (20) 'Preparando certificación CCNA 1'
-
-    sistemas varchar (20) 'Administración de Linux (terminal, servicios, usuarios)'
-    sistemas varchar (20) 'Administración de Windows Server'
-    sistemas varchar (20) 'Virtualización y gestión de entornos'
-
-    bases_de_datos varchar (20) 'Consultas SQL con Oracle SQL Developer'
-    bases_de_datos varchar (20) 'Administración y diseño de bases de datos relacionales'
+INSERT INTO david_lopez VALUES (
+    'David Lopez',
+    'Sevilla, Andalucia',
+    'Estudiante de ASIR',
+    'Curso de Especializacion en Ciberseguridad',
+    'Cada comando que ejecutas es una leccion que no olvidaras'
 );
 
-insert into idiomas values('🇬🇧 Inglés B2 — Certificado Trinity (oficial)');
+CREATE TABLE formacion (
+    area            VARCHAR2(30),
+    competencia     VARCHAR2(80)
+);
 
-insert into objetivo_futuro values ('Curso de Especialización en Ciberseguridad 🔐');
+INSERT ALL
+    INTO formacion VALUES ('Redes',     'Configuracion de routers y switches (Cisco Packet Tracer)')
+    INTO formacion VALUES ('Redes',     'Topologias de red, subnetting y VLANs')
+    INTO formacion VALUES ('Redes',     'Certificacion CCNA 1 obtenida')
+    INTO formacion VALUES ('Sistemas',  'Administracion de Linux: terminal, servicios, usuarios')
+    INTO formacion VALUES ('Sistemas',  'Administracion de Windows Server')
+    INTO formacion VALUES ('Sistemas',  'Virtualizacion y gestion de entornos')
+    INTO formacion VALUES ('Sistemas',  'Homelab: DNS, DHCP, AD, web server, monitorizacion y mas')
+    INTO formacion VALUES ('BBDD',      'Consultas SQL con Oracle SQL Developer')
+    INTO formacion VALUES ('BBDD',      'Diseno y administracion de bases de datos relacionales')
+SELECT 1 FROM DUAL;
+
+INSERT INTO idiomas VALUES ('Ingles B2 — Certificado Trinity (oficial)');
+
+COMMIT;
 ```
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnologico
 
-### 🌐 Redes
+<div align="center">
 
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+### 🌐 Redes & Comunicaciones
+
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🗄️ Bases de Datos
 
-![Oracle](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🖥️ Sistemas Operativos
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### ⚡ Scripting & Herramientas
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
+</div>
 
 ---
 
 ## 📂 Proyectos
 
-### 🖥️ Sistemas & Automatización
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- [⚙️ Scripts de **PowerShell** para automatización de tareas en Windows Server](https://github.com/davidlpizano/Sistemas)
-- [🐧 Prácticas de administración **Linux**: usuarios, permisos, servicios y red](https://github.com/davidlpizano/Sistemas)
-- [🗄️ Ejercicios de **SQL** con Oracle: consultas, joins, vistas y procedimientos](https://github.com/davidlpizano/BasesDeDatos)
+### 🖥️ Sistemas & Automatizacion
 
-### 📡 Prácticas de Redes
+- [⚙️ Scripts de **PowerShell** — automatizacion en Windows Server](https://github.com/davidlpizano/Sistemas)
+- [🐧 Practicas **Linux** — usuarios, permisos, servicios y red](https://github.com/davidlpizano/Sistemas)
+- [🗄️ Ejercicios **SQL** — consultas, joins, vistas y procedimientos](https://github.com/davidlpizano/BasesDeDatos)
 
-- [🔧 Topologías configuradas en **Cisco Packet Tracer** (routing estático, DHCP, VLANs)](https://github.com/davidlpizano/Redes)
-- 📡 Preparación activa para la certificación **CCNA 1**
+</td>
+<td width="50%" valign="top">
+
+### 📡 Redes
+
+- [🔧 Topologias en **Cisco Packet Tracer** — routing, DHCP, VLANs](https://github.com/davidlpizano/Redes)
+- 📡 **CCNA 1** certificado ✅
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌱 Actualmente Aprendiendo
 
-| Tecnología | Progreso | Objetivo |
-| --- | --- | --- |
-| 🌐 Networking | 🟦🟦🟦⬜⬜ | CCNA1 |
-| 🐧 Linux avanzado | 🟦🟦⬜⬜⬜ | Servicios, firewall y hardening |
-
----
-
-## 🎯 Filosofía de Trabajo
-
 <div align="center">
 
-### *"El error no es el fracaso, sino el camino hacia el éxito ."*
+| Tecnologia | Progreso | Objetivo |
+| :---: | :---: | :---: |
+| 🌐 Networking | 🟩🟩🟩🟩🟩 100% | CCNA 1 ✅ |
+| 🐧 Linux avanzado | 🟩🟩🟩🟩⬜ 80% | Homelab con servicios en produccion |
+| 🔐 Ciberseguridad | 🟩⬜⬜⬜⬜ 20% | Curso de especializacion |
+| ⚡ PowerShell | 🟩🟩🟩⬜⬜ 60% | Automatizacion avanzada |
 
 </div>
 
-**Mis principios:**
+---
+
+## 🎯 Filosofia de Trabajo
+
+<div align="center">
+
+### *"El error no es el fracaso, sino el camino hacia el exito."*
+
+</div>
 
 ```powershell
-# David's sysadmin mindset
-
 $filosofia = @{
     Documentar   = "Un sistema sin documentar es un sistema que falla"
-    Practicar    = "Experimentación primero, producción después"
-    Aprender     = "ASIR es el inicio, no el límite"
+    Practicar    = "Experimentacion primero, produccion despues"
+    Aprender     = "ASIR es el inicio, no el limite"
     Compartir    = "El conocimiento crece cuando se comparte"
+    Automatizar  = "Si lo haces dos veces, escribelo en un script"
 }
+
+$filosofia.GetEnumerator() | Sort-Object Name | Format-Table -AutoSize
 ```
 
 ---
 
 ## 🎮 Fun Facts
 
-```bash
-> enable
-# configure terminal
-(config)# hostname
-davidlpizano
+```cisco
+Router> enable
+Router# configure terminal
+Router(config)# hostname davidlpizano
+davidlpizano(config)#
 
-# show running-config
-- 🌐 Redes y protocolos de comunicación
-- 🖥️ Administración de sistemas Linux y Windows
-- 🔐 El mundo de la ciberseguridad me llama
-- 📺 Crear contenido técnico en YouTube
-- ⌨️  Automatizar todo lo que se pueda con PowerShell
-- 🇬🇧 Mejorando mi inglés técnico cada día
+davidlpizano# show running-config | section interests
+!
+interface Loopback0
+ description Mis intereses
+ ip address 127.0.0.1 255.255.255.255
+!
+ - Redes y protocolos de comunicacion
+ - Administracion de sistemas Linux y Windows
+ - El mundo de la ciberseguridad me llama
+ - Crear contenido tecnico en YouTube
+ - Automatizar todo lo que se pueda con PowerShell
+ - Mejorando mi ingles tecnico cada dia
+!
 
-(config)# ip route
-Estudiando, practicando y creciendo 📚
+davidlpizano# show ip route
+Gateway of last resort: Estudiando, practicando y creciendo
 
-(config)# end
-¡Gracias por visitar mi perfil! 👋
+davidlpizano# exit
+Gracias por visitar mi perfil!
 ```
 
 ---
 
-## 📬 Contacto & Redes Sociales
+## 📊 Estadisticas de GitHub
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-davidlpizano-181717?style=for-the-badge&logo=github)](https://github.com/davidlpizano)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlopiza/)
-[![YouTube](https://img.shields.io/badge/YouTube-Canal%20David-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavihAsir)
-[![Email](https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopez.pizano.david@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=davidlpizano&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpizano&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&text_color=c9d1d9" alt="Top Langs" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=davidlpizano&theme=algolia&hide_border=true&background=0d1117&ring=02aab0&fire=00cdac&currStreakLabel=02aab0" alt="GitHub Streak" width="520"/>
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📬 Contacto
 
-<b>Hecho con 💙 desde Sevilla para la comunidad ASIR</b>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-davidlpizano-181717?style=for-the-badge&logo=github)](https://github.com/davidlpizano)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidlopiza/)
+[![YouTube](https://img.shields.io/badge/YouTube-DavihAsir-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavihAsir)
+[![Email](https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lopez.pizano.david@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:02aab0,100:00cdac&section=footer" width="100%"/>
+
+**Hecho con 💙 desde Sevilla para la comunidad ASIR**
+
 </div>
