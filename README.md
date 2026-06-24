@@ -100,17 +100,46 @@ COMMIT;
 ## 📂 Repositorios
 
 <div align="center">
-
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/davidlpizano/Sistemas"><b>🖥️ Sistemas</b></a>
+<br/><br/>
 <a href="https://github.com/davidlpizano/Sistemas">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=davidlpizano&repo=Sistemas&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="Sistemas"/>
-</a>
-<a href="https://github.com/davidlpizano/Redes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=davidlpizano&repo=Redes&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="Redes"/>
-</a>
-<a href="https://github.com/davidlpizano/Base-De-Datos">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=davidlpizano&repo=Base-De-Datos&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="BasesDeDatos"/>
-</a>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</a>
+<sub>Linux, Windows Server, PowerShell, Docker y Homelab con +15 servicios</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/davidlpizano/Redes"><b>📡 Redes</b></a>
+<br/><br/>
+<a href="https://github.com/davidlpizano/Redes">
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA_1-✅-04222E?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+</a>
+<sub>Topologias Cisco, VLANs, routing, switching y networking real</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/davidlpizano/Base-De-Datos"><b>🗄️ Bases de Datos</b></a>
+<br/><br/>
+<a href="https://github.com/davidlpizano/Base-De-Datos">
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+</a>
+<sub>SQL, modelado E/R, consultas avanzadas y BD en produccion</sub>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
