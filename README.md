@@ -1,17 +1,14 @@
-<!-- Cabecera -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:02aab0,100:00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=22&descAlignY=58&descColor=c0e0ff" alt="Banner David Lopez" width="100%"/>
-</p>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:02aab0,100:00cdac&text=David%20Lopez&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=ASIR%20%7C%20Redes%20%7C%20Sistemas%20%7C%20Ciberseguridad&descSize=22&descAlignY=58&descColor=c0e0ff" alt="Banner David Lopez" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=02aab0&center=true&vCenter=true&width=650&lines=Estudiante+de+ASIR+en+Sevilla;Apasionado+por+las+Redes+y+Sistemas;PowerShell+%7C+Linux+%7C+Oracle+SQL;Futuro+especialista+en+Ciberseguridad+%F0%9F%94%90;CCNA+1+certificado+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-## 🚀 Sobre mí
+## 🧑‍💻 Sobre mi
 
 ```sql
 CREATE TABLE david_lopez (
@@ -52,85 +49,92 @@ INSERT INTO idiomas VALUES ('Ingles B2 — Certificado Trinity (oficial)');
 COMMIT;
 ```
 
----
+<br/>
 
-## 🛠️ Stack Tecnologico
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 Redes & Comunicaciones
-
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### 🗄️ Bases de Datos
-
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🖥️ Sistemas Operativos
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### ⚡ Scripting & Herramientas
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-</div>
-
----
-
-## 📂 Proyectos
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%"><b>🌐 Redes</b></td>
+<td align="center" width="25%"><b>🖥️ Sistemas</b></td>
+<td align="center" width="25%"><b>🗄️ Bases de Datos</b></td>
+<td align="center" width="25%"><b>⚡ Herramientas</b></td>
+</tr>
+<tr>
+<td align="center">
 
-### 🖥️ Sistemas & Automatizacion
-
-- [⚙️ Scripts de **PowerShell** — automatizacion en Windows Server](https://github.com/davidlpizano/Sistemas)
-- [🐧 Practicas **Linux** — usuarios, permisos, servicios y red](https://github.com/davidlpizano/Sistemas)
-- [🗄️ Ejercicios **SQL** — consultas, joins, vistas y procedimientos](https://github.com/davidlpizano/BasesDeDatos)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
 
-### 📡 Redes
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Win_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-- [🔧 Topologias en **Cisco Packet Tracer** — routing, DHCP, VLANs](https://github.com/davidlpizano/Redes)
-- 📡 **CCNA 1** certificado ✅
+</td>
+<td align="center">
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td align="center">
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## 🌱 Actualmente Aprendiendo
+<br/>
+
+## 📂 Repositorios
 
 <div align="center">
 
-| Tecnologia | Progreso | Objetivo |
-| :---: | :---: | :---: |
-| 🌐 Networking | 🟩🟩🟩🟩🟩 100% | CCNA 1 ✅ |
-| 🐧 Linux avanzado | 🟩🟩🟩🟩⬜ 80% | Homelab con servicios en produccion |
-| 🔐 Ciberseguridad | 🟩⬜⬜⬜⬜ 20% | Curso de especializacion |
-| ⚡ PowerShell | 🟩🟩🟩⬜⬜ 60% | Automatizacion avanzada |
+<a href="https://github.com/davidlpizano/Sistemas">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=davidlpizano&repo=Sistemas&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="Sistemas"/>
+</a>
+<a href="https://github.com/davidlpizano/Redes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=davidlpizano&repo=Redes&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="Redes"/>
+</a>
+<a href="https://github.com/davidlpizano/Base-De-Datos">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=davidlpizano&repo=Base-De-Datos&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="BasesDeDatos"/>
+</a>
 
 </div>
 
----
+<br/>
 
-## 🎯 Filosofia de Trabajo
+## 🌱 Progreso actual
 
 <div align="center">
 
-### *"El error no es el fracaso, sino el camino hacia el exito."*
+| | Tecnologia | Nivel | Estado |
+| :---: | :--- | :--- | :---: |
+| 🌐 | Networking (CCNA 1) | `████████████████████` 100% | ✅ Certificado |
+| 🐧 | Linux + Homelab | `████████████████░░░░` 80% | 🔄 +15 servicios en produccion |
+| ⚡ | PowerShell | `████████████░░░░░░░░` 60% | 🔄 Automatizacion avanzada |
+| 🔐 | Ciberseguridad | `████░░░░░░░░░░░░░░░░` 20% | 📋 Proximo curso |
+
+</div>
+
+<br/>
+
+## 🎯 Filosofia
+
+<div align="center">
+
+> *"El error no es el fracaso, sino el camino hacia el exito."*
 
 </div>
 
@@ -146,7 +150,7 @@ $filosofia = @{
 $filosofia.GetEnumerator() | Sort-Object Name | Format-Table -AutoSize
 ```
 
----
+<br/>
 
 ## 🎮 Fun Facts
 
@@ -160,7 +164,6 @@ davidlpizano# show running-config | section interests
 !
 interface Loopback0
  description Mis intereses
- ip address 127.0.0.1 255.255.255.255
 !
  - Redes y protocolos de comunicacion
  - Administracion de sistemas Linux y Windows
@@ -177,14 +180,14 @@ davidlpizano# exit
 Gracias por visitar mi perfil!
 ```
 
----
+<br/>
 
-## 📊 Estadisticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=davidlpizano&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpizano&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&text_color=c9d1d9" alt="Top Langs" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=davidlpizano&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&icon_color=00cdac&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlpizano&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=02aab0&text_color=c9d1d9" alt="Top Langs" height="170"/>
 
 <br/>
 
@@ -192,7 +195,7 @@ Gracias por visitar mi perfil!
 
 </div>
 
----
+<br/>
 
 ## 📬 Contacto
 
@@ -205,12 +208,10 @@ Gracias por visitar mi perfil!
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:02aab0,100:00cdac&section=footer" width="100%"/>
-
-**Hecho con 💙 desde Sevilla para la comunidad ASIR**
 
 </div>
