@@ -39,7 +39,7 @@ INSERT ALL
     INTO formacion VALUES ('Sistemas',  'Administracion de Linux: terminal, servicios, usuarios')
     INTO formacion VALUES ('Sistemas',  'Administracion de Windows Server')
     INTO formacion VALUES ('Sistemas',  'Virtualizacion y gestion de entornos')
-    INTO formacion VALUES ('Sistemas',  'Homelab: DNS, DHCP, AD, web server, monitorizacion y mas')
+    INTO formacion VALUES ('Sistemas',  'Servicios: DNS, DHCP, AD, web server y monitorizacion')
     INTO formacion VALUES ('BBDD',      'Consultas SQL con Oracle SQL Developer')
     INTO formacion VALUES ('BBDD',      'Diseno y administracion de bases de datos relacionales')
 SELECT 1 FROM DUAL;
@@ -57,9 +57,9 @@ COMMIT;
 
 <table>
 <tr>
-<td align="center" width="25%"><b>🌐 Redes</b></td>
-<td align="center" width="25%"><b>🖥️ Sistemas</b></td>
-<td align="center" width="25%"><b>🗄️ Bases de Datos</b></td>
+<td align="center" width="25%"><a href="https://github.com/davidlpizano/Redes"><b>🌐 Redes ↗</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/davidlpizano/Sistemas"><b>🖥️ Sistemas ↗</b></a></td>
+<td align="center" width="25%"><a href="https://github.com/davidlpizano/Base-De-Datos"><b>🗄️ Bases de Datos ↗</b></a></td>
 <td align="center" width="25%"><b>⚡ Herramientas</b></td>
 </tr>
 <tr>
@@ -80,6 +80,8 @@ COMMIT;
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
 <td align="center">
@@ -97,63 +99,29 @@ COMMIT;
 
 <br/>
 
-## 📂 Repositorios
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/davidlpizano/Sistemas"><b>🖥️ Sistemas</b></a>
-<br/><br/>
-<a href="https://github.com/davidlpizano/Sistemas">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-</a>
-<sub>Linux, Windows Server, PowerShell, Docker y Homelab con +15 servicios</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/davidlpizano/Redes"><b>📡 Redes</b></a>
-<br/><br/>
-<a href="https://github.com/davidlpizano/Redes">
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA_1-✅-04222E?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-</a>
-<sub>Topologias Cisco, VLANs, routing, switching y networking real</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/davidlpizano/Base-De-Datos"><b>🗄️ Bases de Datos</b></a>
-<br/><br/>
-<a href="https://github.com/davidlpizano/Base-De-Datos">
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-
-</a>
-<sub>SQL, modelado E/R, consultas avanzadas y BD en produccion</sub>
-</td>
-</tr>
-</table>
-</div>
-
 <br/>
 
-## 🌱 Progreso actual
+## 🌱 Actualmente aprendiendo
 
 <div align="center">
 
 | | Tecnologia | Nivel | Estado |
 | :---: | :--- | :--- | :---: |
-| 🌐 | Networking (CCNA 1) | `████████████████████` 100% | ✅ Certificado |
-| 🐧 | Linux + Homelab | `████████████████░░░░` 80% | 🔄 +15 servicios en produccion |
+| 🐧 | Linux | `████████████████░░░░` 80% | 🔄 Administracion de sistemas |
 | ⚡ | PowerShell | `████████████░░░░░░░░` 60% | 🔄 Automatizacion avanzada |
 | 🔐 | Ciberseguridad | `████░░░░░░░░░░░░░░░░` 20% | 📋 Proximo curso |
+
+</div>
+
+<br/>
+
+## 🏅 Conocimientos adquiridos
+
+<div align="center">
+
+| | Conocimiento | Estado |
+| :---: | :--- | :---: |
+| 🌐 | Networking (CCNA 1) | ✅ Certificado |
 
 </div>
 
@@ -175,13 +143,11 @@ $filosofia = @{
     Compartir    = "El conocimiento crece cuando se comparte"
     Automatizar  = "Si lo haces dos veces, escribelo en un script"
 }
-
-$filosofia.GetEnumerator() | Sort-Object Name | Format-Table -AutoSize
 ```
 
 <br/>
 
-## 🎮 Fun Facts
+## 🎮 Sobre mi
 
 ```cisco
 Router> enable
@@ -197,6 +163,7 @@ interface Loopback0
  - Redes y protocolos de comunicacion
  - Administracion de sistemas Linux y Windows
  - El mundo de la ciberseguridad me llama
+ - Docker es gloria
  - Crear contenido tecnico en YouTube
  - Automatizar todo lo que se pueda con PowerShell
  - Mejorando mi ingles tecnico cada dia
